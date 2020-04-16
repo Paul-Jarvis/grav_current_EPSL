@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{38}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\href}[2]{#2}
@@ -11,13 +11,350 @@
 \providecommand{\Pubmed}[1]{\href{pmid:#1}{\path{#1}}}
 \providecommand{\bibinfo}[2]{#2}
 \ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
+%Type = Article
+\bibitem[{Anderson et~al.({2012})Anderson, Thundiyil and Stolback}]{Anderson12}
+\bibinfo{author}{Anderson, J.O.}, \bibinfo{author}{Thundiyil, J.G.},
+  \bibinfo{author}{Stolback, A.}, \bibinfo{year}{{2012}}.
+\newblock \bibinfo{title}{{Clearing the air: A review of the Effects of
+  Particulate Matter Air Pollution on Human Health}}.
+\newblock \bibinfo{journal}{{J. Med. Toxicol.}} \bibinfo{volume}{{8}},
+  \bibinfo{pages}{{166--175}}.
 %Type = Incollection
-\bibitem[{Baxter and Horwell(2015)}]{Baxter15}
+\bibitem[{Baxter and Horwell({2015})}]{Baxter15}
 \bibinfo{author}{Baxter, P.J.}, \bibinfo{author}{Horwell, C.J.},
-  \bibinfo{year}{2015}.
-\newblock \bibinfo{title}{Impacts of {E}ruptions on {H}uman {H}ealth}, in:
-  \bibinfo{editor}{Sigurdsson, H.} (Ed.), \bibinfo{booktitle}{The {E}ncylopedia
-  of {V}olcanoes}. \bibinfo{publisher}{Elsevier {I}nc.}, pp.
-  \bibinfo{pages}{1035--1047}.
+  \bibinfo{year}{{2015}}.
+\newblock \bibinfo{title}{{Impacts of Eruptions on Human Health}}, in:
+  \bibinfo{editor}{{H. Sigurdsson}} (Ed.), \bibinfo{booktitle}{{The Encylopedia
+  of Volcanoes}}. \bibinfo{publisher}{{Elsevier Inc.}}, pp.
+  \bibinfo{pages}{{1035--1047}}.
+%Type = Article
+\bibitem[{Blanchette and Bush({2005})}]{Blanchette05}
+\bibinfo{author}{Blanchette, F.}, \bibinfo{author}{Bush, J.W.M.},
+  \bibinfo{year}{{2005}}.
+\newblock \bibinfo{title}{{Particle concentration evolution and
+  sedimentation-induced instabilties in a stably stratified environment}}.
+\newblock \bibinfo{journal}{{Phys. Fluids}} \bibinfo{volume}{{17}},
+  \bibinfo{pages}{{073302}}.
+%Type = Article
+\bibitem[{Bonadonna et~al.({2005})Bonadonna, Connor, Houghton, Connor, Byrne,
+  Laing and Hinks}]{Bonadonna05}
+\bibinfo{author}{Bonadonna, C.}, \bibinfo{author}{Connor, C.B.},
+  \bibinfo{author}{Houghton, B.F.}, \bibinfo{author}{Connor, L.},
+  \bibinfo{author}{Byrne, M.}, \bibinfo{author}{Laing, A.},
+  \bibinfo{author}{Hinks, T.K.}, \bibinfo{year}{{2005}}.
+\newblock \bibinfo{title}{{Probabilistic modeling of tephra dispersal: Hazard
+  assessment of a multiphase rhyolitic eruption at Tarawera, New Zealand}}.
+\newblock \bibinfo{journal}{{J. Geophys. Res. Solid Earth}}
+  \bibinfo{volume}{{110}}.
+%Type = Article
+\bibitem[{Bonadonna et~al.({2012})Bonadonna, Folch, Loughlin and
+  Puempel}]{Bonadonna12}
+\bibinfo{author}{Bonadonna, C.}, \bibinfo{author}{Folch, A.},
+  \bibinfo{author}{Loughlin, S.}, \bibinfo{author}{Puempel, H.},
+  \bibinfo{year}{{2012}}.
+\newblock \bibinfo{title}{{Future developments in modelling and monitoring of
+  volcanic ash clouds: outcomes from the first IAVCEI-WMO workshop on Ash
+  Dispersal Forecast and Civil Aviation}}.
+\newblock \bibinfo{journal}{{Bull. Volcanol.}} \bibinfo{volume}{{74}},
+  \bibinfo{pages}{{1--10}}.
+%Type = Article
+\bibitem[{Bonadonna et~al.({2011})Bonadonna, Genco, Gouhier, Pistolesi, Cioni,
+  Alfano, Hoskuldsson and Ripepe}]{Bonadonna11}
+\bibinfo{author}{Bonadonna, C.}, \bibinfo{author}{Genco, R.},
+  \bibinfo{author}{Gouhier, M.}, \bibinfo{author}{Pistolesi, M.},
+  \bibinfo{author}{Cioni, R.}, \bibinfo{author}{Alfano, F.},
+  \bibinfo{author}{Hoskuldsson, A.}, \bibinfo{author}{Ripepe, M.},
+  \bibinfo{year}{{2011}}.
+\newblock \bibinfo{title}{{Tephra sedimentation during the 2010
+  Eyjafjallaj{\"o}kul eruption (Iceland) from deposit, radar, and satellite
+  observations}}.
+\newblock \bibinfo{journal}{{J. Geophys. Res. Solid Earth}}
+  \bibinfo{volume}{{116}}.
+%Type = Article
+\bibitem[{Bonadonna et~al.({2002})Bonadonna, Mayberry, Calder, Sparks, Choux,
+  Jackson, Lejeune, Loughlin, Norton, Rose, Ryan and Young}]{Bonadonna02}
+\bibinfo{author}{Bonadonna, C.}, \bibinfo{author}{Mayberry, G.C.},
+  \bibinfo{author}{Calder, E.S.}, \bibinfo{author}{Sparks, R.S.J.},
+  \bibinfo{author}{Choux, C.}, \bibinfo{author}{Jackson, P.},
+  \bibinfo{author}{Lejeune, A.M.}, \bibinfo{author}{Loughlin, S.C.},
+  \bibinfo{author}{Norton, G.E.}, \bibinfo{author}{Rose, W.I.},
+  \bibinfo{author}{Ryan, G.}, \bibinfo{author}{Young, S.R.},
+  \bibinfo{year}{{2002}}.
+\newblock \bibinfo{title}{{Tephra fallout in the eruption of Soufri{\`e} Hills
+  Volcano, Montserrat}}.
+\newblock \bibinfo{journal}{{Geol. Soc. Lond. Mem.}} \bibinfo{volume}{{21}},
+  \bibinfo{pages}{{483--516}}.
+%Type = Article
+\bibitem[{Brown et~al.({2012})Brown, Bonadonna and Durant}]{Brown12}
+\bibinfo{author}{Brown, R.J.}, \bibinfo{author}{Bonadonna, C.},
+  \bibinfo{author}{Durant, A.J.}, \bibinfo{year}{{2012}}.
+\newblock \bibinfo{title}{{A review of volcanic ash aggregation}}.
+\newblock \bibinfo{journal}{{Phys. Chem. Earth}} \bibinfo{volume}{{45-46}},
+  \bibinfo{pages}{{65--78}}.
+%Type = Article
+\bibitem[{Budd et~al.({2011})Budd, Griggs, Howarth and Ison}]{Budd11}
+\bibinfo{author}{Budd, L.}, \bibinfo{author}{Griggs, S.},
+  \bibinfo{author}{Howarth, D.}, \bibinfo{author}{Ison, S.},
+  \bibinfo{year}{{2011}}.
+\newblock \bibinfo{title}{{A Fiasco of Volcanic Proportions?
+  Eyjafjallaj{\"o}kull and the Closure of European Airspace}}.
+\newblock \bibinfo{journal}{{Mobilities}} \bibinfo{volume}{{6}},
+  \bibinfo{pages}{{31--40}}.
+%Type = Article
+\bibitem[{Bursik et~al.({1992})Bursik, Sparks, Gilbert and Carey}]{Bursik92}
+\bibinfo{author}{Bursik, M.I.}, \bibinfo{author}{Sparks, R.S.J.},
+  \bibinfo{author}{Gilbert, J.S.}, \bibinfo{author}{Carey, S.N.},
+  \bibinfo{year}{{1992}}.
+\newblock \bibinfo{title}{{Sedimentation of tephra by volcanic plumes: I.
+  Theory and its comparison with a study of the Fogo A plinian deposit, Sao
+  Miguel (Azores)}}.
+\newblock \bibinfo{journal}{{Bull. Volcanol.}} \bibinfo{volume}{{54}},
+  \bibinfo{pages}{{329--344}}.
+%Type = Article
+\bibitem[{Carazzo and Jellinek({2012})}]{Carrazo12}
+\bibinfo{author}{Carazzo, G.}, \bibinfo{author}{Jellinek, A.M.},
+  \bibinfo{year}{{2012}}.
+\newblock \bibinfo{title}{{A new view on the dynamics, stability and longevity
+  of volcanic clouds}}.
+\newblock \bibinfo{journal}{{Earth Planet. Sci. Lett.}}
+  \bibinfo{volume}{{325-326}}, \bibinfo{pages}{{39--51}}.
+%Type = Article
+\bibitem[{Carey and Sigurdsson({1982})}]{Carey82}
+\bibinfo{author}{Carey, S.N.}, \bibinfo{author}{Sigurdsson, H.},
+  \bibinfo{year}{{1982}}.
+\newblock \bibinfo{title}{{Influence of particle aggregation on deposition of
+  distal tephra from the May 18, 1980, eruption of Mt. St. Helens volcano}}.
+\newblock \bibinfo{journal}{{J. Geophys. Res. Solid Earth}}
+  \bibinfo{volume}{{87}}, \bibinfo{pages}{{7061--7072}}.
+%Type = Article
+\bibitem[{Clift and Gauvin({1971})}]{Clift71}
+\bibinfo{author}{Clift, R.}, \bibinfo{author}{Gauvin, W.H.},
+  \bibinfo{year}{{1971}}.
+\newblock \bibinfo{title}{{Motion of entrained particles in gas streams}}.
+\newblock \bibinfo{journal}{{Can. J. Chem. Eng.}} \bibinfo{volume}{{49}},
+  \bibinfo{pages}{{439--448}}.
+%Type = Article
+\bibitem[{Cook et~al.({1981})Cook, Baron, Papendick and III}]{Cook81}
+\bibinfo{author}{Cook, R.J.}, \bibinfo{author}{Baron, J.C.},
+  \bibinfo{author}{Papendick, R.I.}, \bibinfo{author}{III, G.J.W.},
+  \bibinfo{year}{{1981}}.
+\newblock \bibinfo{title}{{Impact on Agriculture of the Mount St. Helens
+  Eruptions}}.
+\newblock \bibinfo{journal}{{Science}} \bibinfo{volume}{{211}},
+  \bibinfo{pages}{{16--22}}.
+%Type = Article
+\bibitem[{Craig et~al.({2016})Craig, Wilson, Stewart, Outes, Villarosa and
+  Baxter}]{Craig16}
+\bibinfo{author}{Craig, H.}, \bibinfo{author}{Wilson, T.},
+  \bibinfo{author}{Stewart, C.}, \bibinfo{author}{Outes, V.},
+  \bibinfo{author}{Villarosa, G.}, \bibinfo{author}{Baxter, P.},
+  \bibinfo{year}{{2016}}.
+\newblock \bibinfo{title}{{Impacts to agriculture and critical infrastructure
+  in Argentina after ashfall from the 2011 eruption of the Cord{\'o}n Caulle
+  volcanic complex: an assesment of published damage and function thresholds}}.
+\newblock \bibinfo{journal}{{J. Appl. Volcanol.}} \bibinfo{volume}{{5}},
+  \bibinfo{pages}{{7}}.
+%Type = Article
+\bibitem[{Cronin et~al.({1998})Cronin, Headley, Neall and Smith}]{Cronin98}
+\bibinfo{author}{Cronin, S.J.}, \bibinfo{author}{Headley, M.J.},
+  \bibinfo{author}{Neall, V.E.}, \bibinfo{author}{Smith, R.G.},
+  \bibinfo{year}{{1998}}.
+\newblock \bibinfo{title}{{Agronomic impact of tephra fallout from the 1995 and
+  1996 Ruapehu Volcano eruptions, New Zealand}}.
+\newblock \bibinfo{journal}{{Environ. Geol.}} \bibinfo{volume}{{34}},
+  \bibinfo{pages}{{21--30}}.
+%Type = Article
+\bibitem[{Elissondo et~al.({2016})Elissondo, Baumann, Bonadonna, Pistolesi,
+  Cioni, Bertagnini, Biass, Herrero and Gonzalez}]{Elissondo16}
+\bibinfo{author}{Elissondo, M.}, \bibinfo{author}{Baumann, V.},
+  \bibinfo{author}{Bonadonna, C.}, \bibinfo{author}{Pistolesi, M.},
+  \bibinfo{author}{Cioni, R.}, \bibinfo{author}{Bertagnini, A.},
+  \bibinfo{author}{Biass, S.}, \bibinfo{author}{Herrero, J.},
+  \bibinfo{author}{Gonzalez, R.}, \bibinfo{year}{{2016}}.
+\newblock \bibinfo{title}{{Chronology and impact of the 2011 Cord{\'o}n Caulle
+  eruption, Chile}}.
+\newblock \bibinfo{journal}{{Nat. Hazards Earth Syst. Sci.}}
+  \bibinfo{volume}{{16}}, \bibinfo{pages}{{675--704}}.
+%Type = Article
+\bibitem[{Folch({2012})}]{Folch12}
+\bibinfo{author}{Folch, A.}, \bibinfo{year}{{2012}}.
+\newblock \bibinfo{title}{{A review of tephra transport and dispersal models:
+  Evolution, current status, and future perspectives}}.
+\newblock \bibinfo{journal}{{J. Volcanol. Geotherm. Res.}}
+  \bibinfo{volume}{{235-236}}, \bibinfo{pages}{{96--115}}.
+%Type = Article
+\bibitem[{Folch and Sulpizio({2010})}]{Folch10}
+\bibinfo{author}{Folch, A.}, \bibinfo{author}{Sulpizio, R.},
+  \bibinfo{year}{{2010}}.
+\newblock \bibinfo{title}{{Evaluating long range-range volcanic ash hazard
+  using supercomputing facilities: application to the Somma-Vesuvius (Italy),
+  and consequences for civil aviation over the Central Mediterranean Area}}.
+\newblock \bibinfo{journal}{{Bull. Volcanol.}} \bibinfo{volume}{{72}},
+  \bibinfo{pages}{{1039--1059}}.
+%Type = Article
+\bibitem[{Ganser({1993})}]{Ganser93}
+\bibinfo{author}{Ganser, G.H.}, \bibinfo{year}{{1993}}.
+\newblock \bibinfo{title}{{A rational approach to drag prediction of spherical
+  and nonspherical particles}}.
+\newblock \bibinfo{journal}{{Powder Technol.}} \bibinfo{volume}{{77}},
+  \bibinfo{pages}{{143--152}}.
+%Type = Article
+\bibitem[{Hazen({1904})}]{Hazen04}
+\bibinfo{author}{Hazen, A.}, \bibinfo{year}{{1904}}.
+\newblock \bibinfo{title}{{On sedimentation}}.
+\newblock \bibinfo{journal}{{Trans. Am. Soc. Civ. Eng.}}
+  \bibinfo{volume}{{53}}, \bibinfo{pages}{{45--88}}.
+%Type = Book
+\bibitem[{von Helmoltz({1868})}]{Helmholtz68}
+\bibinfo{author}{von Helmoltz, H.}, \bibinfo{year}{{1868}}.
+\newblock \bibinfo{title}{{{\"U}ber discontinuierliche
+  Flüssigkeits-Bewegungen}}.
+\newblock \bibinfo{publisher}{{Akademie der Wissenschaften zu Berlin}}.
+%Type = Article
+\bibitem[{Hoyal et~al.({1999})Hoyal, Bursik and Atkinson}]{Hoyal99}
+\bibinfo{author}{Hoyal, D.C.J.D.}, \bibinfo{author}{Bursik, M.I.},
+  \bibinfo{author}{Atkinson, J.F.}, \bibinfo{year}{{1999}}.
+\newblock \bibinfo{title}{{Settling driven convection: A mechanism of
+  sedimentation from stratified fluids}}.
+\newblock \bibinfo{journal}{{J. Geophys. Res. Oceans}} \bibinfo{volume}{{104}},
+  \bibinfo{pages}{{7953--7966}}.
+%Type = Article
+\bibitem[{Johnson et~al.({2015})Johnson, Hogg, Huppert, Sparks, Phillips, Slim
+  and Woodhouse}]{Johnson15}
+\bibinfo{author}{Johnson, C.G.}, \bibinfo{author}{Hogg, A.J.},
+  \bibinfo{author}{Huppert, H.E.}, \bibinfo{author}{Sparks, R.S.J.},
+  \bibinfo{author}{Phillips, J.C.}, \bibinfo{author}{Slim, A.C.},
+  \bibinfo{author}{Woodhouse, M.J.}, \bibinfo{year}{{2015}}.
+\newblock \bibinfo{title}{{Modelling intrusions through quiescent and moving
+  ambients}}.
+\newblock \bibinfo{journal}{{J. Fluid Mech.}} \bibinfo{volume}{{771}},
+  \bibinfo{pages}{{370--406}}.
+%Type = Article
+\bibitem[{Kampa and Castanas({2007})}]{Kampa07}
+\bibinfo{author}{Kampa, M.}, \bibinfo{author}{Castanas, E.},
+  \bibinfo{year}{{2007}}.
+\newblock \bibinfo{title}{{Human health effects of air pollution}}.
+\newblock \bibinfo{journal}{{Environ. Pollut.}} \bibinfo{volume}{{151}},
+  \bibinfo{pages}{{362--367}}.
+%Type = Article
+\bibitem[{Kelvin({1871})}]{Kelvin71}
+\bibinfo{author}{Kelvin, W.}, \bibinfo{year}{{1871}}.
+\newblock \bibinfo{title}{{The influence of wind on waves in water supposed
+  frictionless}}.
+\newblock \bibinfo{journal}{{Phil. Mag.}} \bibinfo{volume}{{42}},
+  \bibinfo{pages}{{368--374}}.
+%Type = Article
+\bibitem[{Lane et~al.({1993})Lane, Gilbert and Hilton}]{Lane93}
+\bibinfo{author}{Lane, S.J.}, \bibinfo{author}{Gilbert, J.S.},
+  \bibinfo{author}{Hilton, M.}, \bibinfo{year}{{1993}}.
+\newblock \bibinfo{title}{{The aerodynamic behaviour of volcanic aggregates}}.
+\newblock \bibinfo{journal}{{Bull. Volcanol.}} \bibinfo{volume}{{55}},
+  \bibinfo{pages}{{481--488}}.
+%Type = Article
+\bibitem[{Macedonio et~al.({2005})Macedonio, Costa and Longo}]{Macedonio05}
+\bibinfo{author}{Macedonio, G.}, \bibinfo{author}{Costa, A.},
+  \bibinfo{author}{Longo, A.}, \bibinfo{year}{{2005}}.
+\newblock \bibinfo{title}{{A computer model for volcanic ash fallout and
+  assessment of subsequent hazard}}.
+\newblock \bibinfo{journal}{{Comput. Geosci.}} \bibinfo{volume}{{31}},
+  \bibinfo{pages}{{837--845}}.
+%Type = Article
+\bibitem[{Manzella et~al.({2015})Manzella, Bonadonna, Phillips and
+  Monnard}]{Manzella15}
+\bibinfo{author}{Manzella, I.}, \bibinfo{author}{Bonadonna, C.},
+  \bibinfo{author}{Phillips, J.C.}, \bibinfo{author}{Monnard, H.},
+  \bibinfo{year}{{2015}}.
+\newblock \bibinfo{title}{{The role of gravitational instabilities in
+  deposition of volcanic ash}}.
+\newblock \bibinfo{journal}{{Geology}} \bibinfo{volume}{{43}},
+  \bibinfo{pages}{{211--214}}.
+%Type = Article
+\bibitem[{Scollo et~al.({2017})Scollo, Bonadonna and Manzella}]{Scollo17}
+\bibinfo{author}{Scollo, S.}, \bibinfo{author}{Bonadonna, C.},
+  \bibinfo{author}{Manzella, I.}, \bibinfo{year}{{2017}}.
+\newblock \bibinfo{title}{{Settling-driven gravitational instabilities
+  associated with volcanic clouds: new insights from experimental
+  investigations}}.
+\newblock \bibinfo{journal}{{Bull. Volcanol.}} \bibinfo{volume}{{79}},
+  \bibinfo{pages}{{39}}.
+%Type = Article
+\bibitem[{Scollo et~al.({2009})Scollo, Prestifilippo, Spata, D'Agostino and
+  Coltelli}]{Scollo09}
+\bibinfo{author}{Scollo, S.}, \bibinfo{author}{Prestifilippo, M.},
+  \bibinfo{author}{Spata, G.}, \bibinfo{author}{D'Agostino, M.},
+  \bibinfo{author}{Coltelli, M.}, \bibinfo{year}{{2009}}.
+\newblock \bibinfo{title}{{Monitoring and forecasting Etna volcanic plumes}}.
+\newblock \bibinfo{journal}{{Nat. Hazards Earth Syst. Sci.}}
+  \bibinfo{volume}{{9}}, \bibinfo{pages}{{1573--1585}}.
+%Type = Article
+\bibitem[{Sorem({1982})}]{Sorem82}
+\bibinfo{author}{Sorem, R.K.}, \bibinfo{year}{{1982}}.
+\newblock \bibinfo{title}{{Volcanic ash clusters: Tephra rafts and
+  scavengers}}.
+\newblock \bibinfo{journal}{{J. Volcanol. Geotherm. Res.}}
+  \bibinfo{volume}{{13}}, \bibinfo{pages}{{63--71}}.
+%Type = Article
+\bibitem[{Sparks et~al.({1992})Sparks, Bursik, Ablay, Thomas and
+  Carey}]{Sparks92}
+\bibinfo{author}{Sparks, R.S.J.}, \bibinfo{author}{Bursik, M.I.},
+  \bibinfo{author}{Ablay, G.J.}, \bibinfo{author}{Thomas, R.M.E.},
+  \bibinfo{author}{Carey, S.N.}, \bibinfo{year}{{1992}}.
+\newblock \bibinfo{title}{{Sedimentation of tephra by volcanic plumes. Part 2:
+  controls on thickness and grain-size variations of tephra fall deposits}}.
+\newblock \bibinfo{journal}{{Bull. Volcanol.}} \bibinfo{volume}{{54}},
+  \bibinfo{pages}{{685--695}}.
+%Type = Article
+\bibitem[{Webster et~al.({2012})Webster, Thomson, Johnson, Heard, Turnbull,
+  Marenco, Kristiansen, Dorsey, Minikin, Weinzierl, Schumann, R.~S, Loughlin,
+  Hort, Leadbetter, Devenish, Manning, Witham, Haywood and Golding}]{Webster12}
+\bibinfo{author}{Webster, H.N.}, \bibinfo{author}{Thomson, D.J.},
+  \bibinfo{author}{Johnson, B.T.}, \bibinfo{author}{Heard, I.P.C.},
+  \bibinfo{author}{Turnbull, K.}, \bibinfo{author}{Marenco, F.},
+  \bibinfo{author}{Kristiansen, N.I.}, \bibinfo{author}{Dorsey, J.},
+  \bibinfo{author}{Minikin, A.}, \bibinfo{author}{Weinzierl, B.},
+  \bibinfo{author}{Schumann, U.}, \bibinfo{author}{R.~S, J.S.},
+  \bibinfo{author}{Loughlin, S.C.}, \bibinfo{author}{Hort, M.C.},
+  \bibinfo{author}{Leadbetter, S.J.}, \bibinfo{author}{Devenish, B.J.},
+  \bibinfo{author}{Manning, A.J.}, \bibinfo{author}{Witham, C.S.},
+  \bibinfo{author}{Haywood, J.M.}, \bibinfo{author}{Golding, B.W.},
+  \bibinfo{year}{{2012}}.
+\newblock \bibinfo{title}{{Operational prediction of ash concentrations in the
+  distal volcanic cloud from the 2010 Eyjafjallaj{\"o}kull eruption}}.
+\newblock \bibinfo{journal}{{J. Geophys. Res. Atmos.}} \bibinfo{volume}{{117}}.
+%Type = Techreport
+\bibitem[{WHO({2013})}]{WHO13}
+\bibinfo{author}{WHO}, \bibinfo{year}{{2013}}.
+\newblock \bibinfo{title}{{Health effects of particulate matter}}.
+\newblock \bibinfo{type}{Technical Report}. {World Health Organisation}.
+%Type = Article
+\bibitem[{Wilson et~al.({2014})Wilson, Wilson, Delinge and Cole}]{Wilson14}
+\bibinfo{author}{Wilson, G.}, \bibinfo{author}{Wilson, T.M.},
+  \bibinfo{author}{Delinge, N.I.}, \bibinfo{author}{Cole, J.W.},
+  \bibinfo{year}{{2014}}.
+\newblock \bibinfo{title}{{Volcanic hazard impacts to critical infrastructure:
+  A review}}.
+\newblock \bibinfo{journal}{{J. Volcanol. Geotherm. Res.}}
+  \bibinfo{volume}{{286}}, \bibinfo{pages}{{148--182}}.
+%Type = Article
+\bibitem[{Wilson et~al.({2011})Wilson, Cole, Cronin, Stewart and
+  Johnston}]{Wilson11}
+\bibinfo{author}{Wilson, T.}, \bibinfo{author}{Cole, J.},
+  \bibinfo{author}{Cronin, S.}, \bibinfo{author}{Stewart, C.},
+  \bibinfo{author}{Johnston, D.}, \bibinfo{year}{{2011}}.
+\newblock \bibinfo{title}{{Impacts on agriculture following the 1991 eruption
+  of Volcan Hudson, Patagonia, lessons for recovery}}.
+\newblock \bibinfo{journal}{{Nat. Hazards}} \bibinfo{volume}{{57}},
+  \bibinfo{pages}{{185--212}}.
+%Type = Article
+\bibitem[{Witham et~al.({2007})Witham, Hort, Potts, Servanckx, Husson and
+  Bonnardot}]{Witham07}
+\bibinfo{author}{Witham, C.S.}, \bibinfo{author}{Hort, M.C.},
+  \bibinfo{author}{Potts, R.}, \bibinfo{author}{Servanckx, R.},
+  \bibinfo{author}{Husson, P.}, \bibinfo{author}{Bonnardot, F.},
+  \bibinfo{year}{{2007}}.
+\newblock \bibinfo{title}{{Comparison of the VAAC atmospheric dispersal models
+  using the 1 November 2004 Grimsv{\"o}tn eruption}}.
+\newblock \bibinfo{journal}{{Meteorol. Appl.}} \bibinfo{volume}{{14}},
+  \bibinfo{pages}{{127--38}}.
 
 \end{thebibliography}
