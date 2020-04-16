@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.15)  14 APR 2020 17:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.15)  16 APR 2020 10:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -200,11 +200,10 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 120.
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<setup.pdf, id=13, 1096.88554pt x 695.17383pt>
-File: setup.pdf Graphic file (type pdf)
-<use setup.pdf>
-Package pdftex.def Info: setup.pdf  used on input line 134.
-(pdftex.def)             Requested size: 350.99762pt x 222.44955pt.
+
+Package natbib Warning: Citation `Baxter15' on page 1 undefined on input line 1
+28.
+
 
 Overfull \hbox (2.61108pt too wide) has occurred while \output is active
 [] 
@@ -213,60 +212,75 @@ Overfull \hbox (2.61108pt too wide) has occurred while \output is active
 [1
 
 
-] [2 <./setup.pdf>] [3]
+]
+<setup.pdf, id=23, 1096.88554pt x 695.17383pt>
+File: setup.pdf Graphic file (type pdf)
+<use setup.pdf>
+Package pdftex.def Info: setup.pdf  used on input line 135.
+(pdftex.def)             Requested size: 350.99762pt x 222.44955pt.
+ [2 <./setup.pdf>] [3]
 <unsieved_dist.pdf, id=38, 361.35pt x 216.81pt>
 File: unsieved_dist.pdf Graphic file (type pdf)
 <use unsieved_dist.pdf>
-Package pdftex.def Info: unsieved_dist.pdf  used on input line 150.
+Package pdftex.def Info: unsieved_dist.pdf  used on input line 151.
 (pdftex.def)             Requested size: 350.99762pt x 210.59987pt.
 <GC3.pdf, id=39, 1385.73753pt x 1300.39905pt>
 File: GC3.pdf Graphic file (type pdf)
 <use GC3.pdf>
-Package pdftex.def Info: GC3.pdf  used on input line 164.
+Package pdftex.def Info: GC3.pdf  used on input line 165.
 (pdftex.def)             Requested size: 350.99762pt x 329.38493pt.
- [4 <./unsieved_dist.pdf>]
-<GC9.pdf, id=59, 1368.154pt x 1298.26057pt>
+<GC9.pdf, id=40, 1368.154pt x 1298.26057pt>
 File: GC9.pdf Graphic file (type pdf)
 <use GC9.pdf>
-Package pdftex.def Info: GC9.pdf  used on input line 172.
+Package pdftex.def Info: GC9.pdf  used on input line 173.
 (pdftex.def)             Requested size: 350.99762pt x 333.06276pt.
-<GC42.pdf, id=60, 1418.60127pt x 1339.04771pt>
+<GC42.pdf, id=41, 1418.60127pt x 1339.04771pt>
 File: GC42.pdf Graphic file (type pdf)
 <use GC42.pdf>
-Package pdftex.def Info: GC42.pdf  used on input line 183.
+Package pdftex.def Info: GC42.pdf  used on input line 184.
 (pdftex.def)             Requested size: 350.99762pt x 331.30806pt.
-<GC48.pdf, id=61, 2875.95842pt x 2595.97368pt>
+<GC48.pdf, id=42, 2875.95842pt x 2595.97368pt>
 File: GC48.pdf Graphic file (type pdf)
 <use GC48.pdf>
-Package pdftex.def Info: GC48.pdf  used on input line 191.
+Package pdftex.def Info: GC48.pdf  used on input line 192.
 (pdftex.def)             Requested size: 350.99762pt x 316.81133pt.
- [5 <./GC3.pdf>] [6 <./GC9.pdf>] [7 <./GC42.pdf>] [8 <./GC48.pdf>] (./grav_curr
-ent.aux) ) 
+<GC45.pdf, id=43, 2922.5355pt x 2576.49539pt>
+File: GC45.pdf Graphic file (type pdf)
+<use GC45.pdf>
+Package pdftex.def Info: GC45.pdf  used on input line 200.
+(pdftex.def)             Requested size: 350.99762pt x 309.402pt.
+ (./grav_current.bbl)
+
+Package natbib Warning: There were undefined citations.
+
+[4] [5 <./unsieved_dist.pdf>] [6 <./GC3.pdf>] [7 <./GC9.pdf>] [8 <./GC42.pdf>]
+[9 <./GC48.pdf>] [10 <./GC45.pdf>] (./grav_current.aux) ) 
 Here is how much of TeX's memory you used:
- 2428 strings out of 494923
- 32013 string characters out of 6180741
- 84881 words of memory out of 5000000
- 5712 multiletter control sequences out of 15000+600000
+ 2436 strings out of 494923
+ 32132 string characters out of 6180741
+ 85890 words of memory out of 5000000
+ 5716 multiletter control sequences out of 15000+600000
  11632 words of font info for 45 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  41i,7n,34p,911b,215s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.
-pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
-usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/sh
-are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/tex
-live/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmt
-i10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pf
-b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti7.pfb>
-Output written on grav_current.pdf (10 pages, 22901949 bytes).
+</usr/share/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmti7.pfb>
+Output written on grav_current.pdf (12 pages, 35321613 bytes).
 PDF statistics:
- 305 PDF objects out of 1000 (max. 8388607)
- 197 compressed objects within 2 object streams
+ 381 PDF objects out of 1000 (max. 8388607)
+ 243 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
- 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
 
