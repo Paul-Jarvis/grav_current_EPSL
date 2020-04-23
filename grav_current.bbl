@@ -1,4 +1,4 @@
-\begin{thebibliography}{38}
+\begin{thebibliography}{49}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\href}[2]{#2}
@@ -85,6 +85,12 @@
 \newblock \bibinfo{journal}{{Geol. Soc. Lond. Mem.}} \bibinfo{volume}{{21}},
   \bibinfo{pages}{{483--516}}.
 %Type = Article
+\bibitem[{Bradley({1965})}]{Bradley65}
+\bibinfo{author}{Bradley, W.H.}, \bibinfo{year}{{1965}}.
+\newblock \bibinfo{title}{{Vertical Density Currents}}.
+\newblock \bibinfo{journal}{{Science}} \bibinfo{volume}{{150}},
+  \bibinfo{pages}{{1423--1428}}.
+%Type = Article
 \bibitem[{Brown et~al.({2012})Brown, Bonadonna and Durant}]{Brown12}
 \bibinfo{author}{Brown, R.J.}, \bibinfo{author}{Bonadonna, C.},
   \bibinfo{author}{Durant, A.J.}, \bibinfo{year}{{2012}}.
@@ -100,6 +106,14 @@
   Eyjafjallaj{\"o}kull and the Closure of European Airspace}}.
 \newblock \bibinfo{journal}{{Mobilities}} \bibinfo{volume}{{6}},
   \bibinfo{pages}{{31--40}}.
+%Type = Article
+\bibitem[{Burns and Meiburg({2012})}]{Burns12}
+\bibinfo{author}{Burns, P.}, \bibinfo{author}{Meiburg, E.},
+  \bibinfo{year}{{2012}}.
+\newblock \bibinfo{title}{{Sediment-laden fresh water above salt water: linear
+  stability analysis}}.
+\newblock \bibinfo{journal}{{J. Fluid Mech.}} \bibinfo{volume}{{691}},
+  \bibinfo{pages}{{279--314}}.
 %Type = Article
 \bibitem[{Bursik et~al.({1992})Bursik, Sparks, Gilbert and Carey}]{Bursik92}
 \bibinfo{author}{Bursik, M.I.}, \bibinfo{author}{Sparks, R.S.J.},
@@ -126,6 +140,12 @@
   distal tephra from the May 18, 1980, eruption of Mt. St. Helens volcano}}.
 \newblock \bibinfo{journal}{{J. Geophys. Res. Solid Earth}}
   \bibinfo{volume}{{87}}, \bibinfo{pages}{{7061--7072}}.
+%Type = Article
+\bibitem[{Chen({197})}]{Chen97}
+\bibinfo{author}{Chen, C.F.}, \bibinfo{year}{{197}}.
+\newblock \bibinfo{title}{{Particle flux through sediment fingers}}.
+\newblock \bibinfo{journal}{{Deep-Sea Res. PT. 1}} \bibinfo{volume}{{44}},
+  \bibinfo{pages}{{1645--1654}}.
 %Type = Article
 \bibitem[{Clift and Gauvin({1971})}]{Clift71}
 \bibinfo{author}{Clift, R.}, \bibinfo{author}{Gauvin, W.H.},
@@ -219,6 +239,23 @@
 \newblock \bibinfo{journal}{{J. Geophys. Res. Oceans}} \bibinfo{volume}{{104}},
   \bibinfo{pages}{{7953--7966}}.
 %Type = Article
+\bibitem[{Jazi and Wells({2016})}]{Jazi16}
+\bibinfo{author}{Jazi, S.D.}, \bibinfo{author}{Wells, M.G.},
+  \bibinfo{year}{{2016}}.
+\newblock \bibinfo{title}{{Enhanced sedimentation beneath particle-laden flows
+  in lakes and the ocean due to double-diffusive convection}}.
+\newblock \bibinfo{journal}{{Geophys. Res. Lett.}} \bibinfo{volume}{{43}},
+  \bibinfo{pages}{{10883--10890}}.
+%Type = Article
+\bibitem[{Jazi and Wells({2019})}]{Jazi19}
+\bibinfo{author}{Jazi, S.D.}, \bibinfo{author}{Wells, M.G.},
+  \bibinfo{year}{{2019}}.
+\newblock \bibinfo{title}{{Dynamics of settling-driven convection beneath a
+  sediment-ladenbuoyant overflow: Implications for the length-scale of
+  deposition in lakes and the coastal ocean}}.
+\newblock \bibinfo{journal}{{Sedimentology}} \bibinfo{volume}{{67}},
+  \bibinfo{pages}{{699--720}}.
+%Type = Article
 \bibitem[{Johnson et~al.({2015})Johnson, Hogg, Huppert, Sparks, Phillips, Slim
   and Woodhouse}]{Johnson15}
 \bibinfo{author}{Johnson, C.G.}, \bibinfo{author}{Hogg, A.J.},
@@ -269,6 +306,37 @@
 \newblock \bibinfo{journal}{{Geology}} \bibinfo{volume}{{43}},
   \bibinfo{pages}{{211--214}}.
 %Type = Article
+\bibitem[{Nipkow({1920})}]{Nipkow20}
+\bibinfo{author}{Nipkow, F.}, \bibinfo{year}{{1920}}.
+\newblock \bibinfo{title}{{Vorl{\"a}ufige Mitteilungen {\"u}ber Untersuchungen
+  des Schlammabsatzes im Z{\"u}richsee}}.
+\newblock \bibinfo{journal}{{Z. Hydrol.}} \bibinfo{volume}{{1}},
+  \bibinfo{pages}{{100--122}}.
+%Type = Article
+\bibitem[{Parsons et~al.({2001})Parsons, Bush and Syvitski}]{Parsons01}
+\bibinfo{author}{Parsons, J.D.}, \bibinfo{author}{Bush, J.W.M.},
+  \bibinfo{author}{Syvitski, J.P.M.}, \bibinfo{year}{{2001}}.
+\newblock \bibinfo{title}{{Hyperpycnal plume formation from riverine outflows
+  with small sediment concentrations}}.
+\newblock \bibinfo{journal}{{Sedimentology}} \bibinfo{volume}{{48}},
+  \bibinfo{pages}{{465--478}}.
+%Type = Article
+\bibitem[{Rouhnia and Strom({2015})}]{Rouhnia15}
+\bibinfo{author}{Rouhnia, M.}, \bibinfo{author}{Strom, K.},
+  \bibinfo{year}{{2015}}.
+\newblock \bibinfo{title}{{Sedimentation from flocculated suspensions in the
+  presence of settling-driven gravitational interface instabilities}}.
+\newblock \bibinfo{journal}{{J. Geophys. Res. Oceans}} \bibinfo{volume}{{120}},
+  \bibinfo{pages}{{6384--6404}}.
+%Type = Article
+\bibitem[{Rouhnia and Strom({2017})}]{Rouhnia17}
+\bibinfo{author}{Rouhnia, M.}, \bibinfo{author}{Strom, K.},
+  \bibinfo{year}{{2017}}.
+\newblock \bibinfo{title}{{Sedimentation from buoyant muddy plumes in the
+  presence of turbulent mixing: An experimental study}}.
+\newblock \bibinfo{journal}{{J. Geophys. Res. Oceans}} \bibinfo{volume}{{122}},
+  \bibinfo{pages}{{2652--2670}}.
+%Type = Article
 \bibitem[{Scollo et~al.({2017})Scollo, Bonadonna and Manzella}]{Scollo17}
 \bibinfo{author}{Scollo, S.}, \bibinfo{author}{Bonadonna, C.},
   \bibinfo{author}{Manzella, I.}, \bibinfo{year}{{2017}}.
@@ -287,6 +355,14 @@
 \newblock \bibinfo{journal}{{Nat. Hazards Earth Syst. Sci.}}
   \bibinfo{volume}{{9}}, \bibinfo{pages}{{1573--1585}}.
 %Type = Article
+\bibitem[{Snyder and Hsu({2011})}]{Snyder11}
+\bibinfo{author}{Snyder, P.J.}, \bibinfo{author}{Hsu, T.},
+  \bibinfo{year}{{2011}}.
+\newblock \bibinfo{title}{{A numerical investigation of convective
+  sedimentation}}.
+\newblock \bibinfo{journal}{{J. Geophys. Res. Oceans}} \bibinfo{volume}{{116}},
+  \bibinfo{pages}{{C09024}}.
+%Type = Article
 \bibitem[{Sorem({1982})}]{Sorem82}
 \bibinfo{author}{Sorem, R.K.}, \bibinfo{year}{{1982}}.
 \newblock \bibinfo{title}{{Volcanic ash clusters: Tephra rafts and
@@ -303,6 +379,12 @@
   controls on thickness and grain-size variations of tephra fall deposits}}.
 \newblock \bibinfo{journal}{{Bull. Volcanol.}} \bibinfo{volume}{{54}},
   \bibinfo{pages}{{685--695}}.
+%Type = Article
+\bibitem[{Stern({1960})}]{Stern60}
+\bibinfo{author}{Stern, M.E.}, \bibinfo{year}{{1960}}.
+\newblock \bibinfo{title}{{The "Salt-Fountain" and Thermohaline Convection}}.
+\newblock \bibinfo{journal}{{Tellus}} \bibinfo{volume}{{12}},
+  \bibinfo{pages}{{172--175}}.
 %Type = Article
 \bibitem[{Webster et~al.({2012})Webster, Thomson, Johnson, Heard, Turnbull,
   Marenco, Kristiansen, Dorsey, Minikin, Weinzierl, Schumann, R.~S, Loughlin,

@@ -4,44 +4,44 @@ The top-level auxiliary file: grav_current.aux
 The style file: model2-names.bst.bst
 Database file #1: grav_current.bib.bib
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 38 entries,
+You've used 49 entries,
             2990 wiz_defined-function locations,
-            1015 strings with 13831 characters,
-and the built_in function-call counts, 28557 in all, are:
-= -- 2066
-> -- 1336
-< -- 15
-+ -- 510
-- -- 472
-* -- 3287
-:= -- 4156
-add.period$ -- 113
-call.type$ -- 38
-change.case$ -- 348
-chr.to.int$ -- 38
-cite$ -- 38
-duplicate$ -- 2016
-empty$ -- 2005
-format.name$ -- 586
-if$ -- 5255
+            1089 strings with 15373 characters,
+and the built_in function-call counts, 35533 in all, are:
+= -- 2639
+> -- 1510
+< -- 25
++ -- 578
+- -- 529
+* -- 4004
+:= -- 5147
+add.period$ -- 146
+call.type$ -- 49
+change.case$ -- 422
+chr.to.int$ -- 49
+cite$ -- 49
+duplicate$ -- 2541
+empty$ -- 2585
+format.name$ -- 680
+if$ -- 6590
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 420
-newline$ -- 204
-num.names$ -- 154
-pop$ -- 735
+missing$ -- 516
+newline$ -- 259
+num.names$ -- 198
+pop$ -- 911
 preamble$ -- 1
-purify$ -- 309
+purify$ -- 372
 quote$ -- 0
-skip$ -- 523
+skip$ -- 670
 stack$ -- 0
-substring$ -- 1317
-swap$ -- 1564
+substring$ -- 1792
+swap$ -- 1917
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 339
+type$ -- 438
 warning$ -- 0
-while$ -- 164
+while$ -- 214
 width$ -- 0
-write$ -- 545
+write$ -- 699
