@@ -1,4 +1,4 @@
-\begin{thebibliography}{49}
+\begin{thebibliography}{63}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\href}[2]{#2}
@@ -115,6 +115,14 @@
 \newblock \bibinfo{journal}{{J. Fluid Mech.}} \bibinfo{volume}{{691}},
   \bibinfo{pages}{{279--314}}.
 %Type = Article
+\bibitem[{Burns and Meiburg({2015})}]{Burns15}
+\bibinfo{author}{Burns, P.}, \bibinfo{author}{Meiburg, E.},
+  \bibinfo{year}{{2015}}.
+\newblock \bibinfo{title}{{Sediment-laden fresh water above salt water:
+  nonlinear simulations}}.
+\newblock \bibinfo{journal}{{J. Fluid Mech.}} \bibinfo{volume}{{762}},
+  \bibinfo{pages}{{156--195}}.
+%Type = Article
 \bibitem[{Bursik et~al.({1992})Bursik, Sparks, Gilbert and Carey}]{Bursik92}
 \bibinfo{author}{Bursik, M.I.}, \bibinfo{author}{Sparks, R.S.J.},
   \bibinfo{author}{Gilbert, J.S.}, \bibinfo{author}{Carey, S.N.},
@@ -141,8 +149,18 @@
 \newblock \bibinfo{journal}{{J. Geophys. Res. Solid Earth}}
   \bibinfo{volume}{{87}}, \bibinfo{pages}{{7061--7072}}.
 %Type = Article
-\bibitem[{Chen({197})}]{Chen97}
-\bibinfo{author}{Chen, C.F.}, \bibinfo{year}{{197}}.
+\bibitem[{Caulfield et~al.({1995})Caulfield, Peltier, Yoshida and
+  Ohtani}]{Caulfield95}
+\bibinfo{author}{Caulfield, C.P.}, \bibinfo{author}{Peltier, W.R.},
+  \bibinfo{author}{Yoshida, W.R.}, \bibinfo{author}{Ohtani, M.},
+  \bibinfo{year}{{1995}}.
+\newblock \bibinfo{title}{{An experimental investigation of the instability of
+  a shear flow with multilayered density stratification}}.
+\newblock \bibinfo{journal}{{Phys. Fluids}} \bibinfo{volume}{{7}},
+  \bibinfo{pages}{{3028--3041}}.
+%Type = Article
+\bibitem[{Chen({1997})}]{Chen97}
+\bibinfo{author}{Chen, C.F.}, \bibinfo{year}{{1997}}.
 \newblock \bibinfo{title}{{Particle flux through sediment fingers}}.
 \newblock \bibinfo{journal}{{Deep-Sea Res. PT. 1}} \bibinfo{volume}{{44}},
   \bibinfo{pages}{{1645--1654}}.
@@ -184,6 +202,22 @@
 \newblock \bibinfo{journal}{{Environ. Geol.}} \bibinfo{volume}{{34}},
   \bibinfo{pages}{{21--30}}.
 %Type = Article
+\bibitem[{{Davies Wykes} and Dalziel({2014})}]{Davies_Wykes14}
+\bibinfo{author}{{Davies Wykes}, M.S.}, \bibinfo{author}{Dalziel, S.B.},
+  \bibinfo{year}{{2014}}.
+\newblock \bibinfo{title}{{Efficient mixing in stratified flows: experimental
+  study of a Rayleigh-Taylor unstable interface within an otherwise stable
+  stratification}}.
+\newblock \bibinfo{journal}{{J. Fluid Mech.}} \bibinfo{volume}{{756}},
+  \bibinfo{pages}{{1027--1057}}.
+%Type = Article
+\bibitem[{Eaves and Balmforth({2019})}]{Eaves19}
+\bibinfo{author}{Eaves, T.S.}, \bibinfo{author}{Balmforth, N.J.},
+  \bibinfo{year}{{2019}}.
+\newblock \bibinfo{title}{{Instability of sheared density interfaces}}.
+\newblock \bibinfo{journal}{{J. Fluid Mech.}} \bibinfo{volume}{{860}},
+  \bibinfo{pages}{{145--171}}.
+%Type = Article
 \bibitem[{Elissondo et~al.({2016})Elissondo, Baumann, Bonadonna, Pistolesi,
   Cioni, Bertagnini, Biass, Herrero and Gonzalez}]{Elissondo16}
 \bibinfo{author}{Elissondo, M.}, \bibinfo{author}{Baumann, V.},
@@ -195,6 +229,14 @@
   eruption, Chile}}.
 \newblock \bibinfo{journal}{{Nat. Hazards Earth Syst. Sci.}}
   \bibinfo{volume}{{16}}, \bibinfo{pages}{{675--704}}.
+%Type = Article
+\bibitem[{Farenzena and Silvestri({2017})}]{Farenzena17}
+\bibinfo{author}{Farenzena, B.A.}, \bibinfo{author}{Silvestri, J.H.},
+  \bibinfo{year}{{2017}}.
+\newblock \bibinfo{title}{{Linear stability analysis of particle-laden
+  hypopycnal plumes}}.
+\newblock \bibinfo{journal}{{Phys. Fluids}} \bibinfo{volume}{{29}},
+  \bibinfo{pages}{{124102}}.
 %Type = Article
 \bibitem[{Folch({2012})}]{Folch12}
 \bibinfo{author}{Folch, A.}, \bibinfo{year}{{2012}}.
@@ -230,6 +272,13 @@
 \newblock \bibinfo{title}{{{\"U}ber discontinuierliche
   Flüssigkeits-Bewegungen}}.
 \newblock \bibinfo{publisher}{{Akademie der Wissenschaften zu Berlin}}.
+%Type = Article
+\bibitem[{Holmboe({1962})}]{Holmboe62}
+\bibinfo{author}{Holmboe, J.}, \bibinfo{year}{{1962}}.
+\newblock \bibinfo{title}{{On the behaviour of symmetric waves in stratified
+  shear layers}}.
+\newblock \bibinfo{journal}{{Geophys. Publ.}} \bibinfo{volume}{{24}},
+  \bibinfo{pages}{{67--113}}.
 %Type = Article
 \bibitem[{Hoyal et~al.({1999})Hoyal, Bursik and Atkinson}]{Hoyal99}
 \bibinfo{author}{Hoyal, D.C.J.D.}, \bibinfo{author}{Bursik, M.I.},
@@ -281,6 +330,14 @@
 \newblock \bibinfo{journal}{{Phil. Mag.}} \bibinfo{volume}{{42}},
   \bibinfo{pages}{{368--374}}.
 %Type = Article
+\bibitem[{Konopliv et~al.({2018})Konopliv, Lesshafft and Meiburg}]{Konopliv18}
+\bibinfo{author}{Konopliv, N.}, \bibinfo{author}{Lesshafft, L.},
+  \bibinfo{author}{Meiburg, E.}, \bibinfo{year}{{2018}}.
+\newblock \bibinfo{title}{{The influence of shear on double-diffusive and
+  settling-driven instabilities}}.
+\newblock \bibinfo{journal}{{J. Fluid Mech.}} \bibinfo{volume}{{849}},
+  \bibinfo{pages}{{902--926}}.
+%Type = Article
 \bibitem[{Lane et~al.({1993})Lane, Gilbert and Hilton}]{Lane93}
 \bibinfo{author}{Lane, S.J.}, \bibinfo{author}{Gilbert, J.S.},
   \bibinfo{author}{Hilton, M.}, \bibinfo{year}{{1993}}.
@@ -305,6 +362,21 @@
   deposition of volcanic ash}}.
 \newblock \bibinfo{journal}{{Geology}} \bibinfo{volume}{{43}},
   \bibinfo{pages}{{211--214}}.
+%Type = Article
+\bibitem[{Maxworthy({1999})}]{Maxworthy99}
+\bibinfo{author}{Maxworthy, T.}, \bibinfo{year}{{1999}}.
+\newblock \bibinfo{title}{{The dynamics of sedimenting surface gravity
+  currents}}.
+\newblock \bibinfo{journal}{{J. Fluid Mech.}} \bibinfo{volume}{{392}},
+  \bibinfo{pages}{{27--44}}.
+%Type = Article
+\bibitem[{McCool and Parsons({2004})}]{McCool04}
+\bibinfo{author}{McCool, W.M.}, \bibinfo{author}{Parsons, J.D.},
+  \bibinfo{year}{{2004}}.
+\newblock \bibinfo{title}{{Sedimentation from buoyant fine-grained
+  suspensions}}.
+\newblock \bibinfo{journal}{{Cont. Shelf Res.}} \bibinfo{volume}{{24}},
+  \bibinfo{pages}{{1129--1142}}.
 %Type = Article
 \bibitem[{Nipkow({1920})}]{Nipkow20}
 \bibinfo{author}{Nipkow, F.}, \bibinfo{year}{{1920}}.
@@ -355,6 +427,12 @@
 \newblock \bibinfo{journal}{{Nat. Hazards Earth Syst. Sci.}}
   \bibinfo{volume}{{9}}, \bibinfo{pages}{{1573--1585}}.
 %Type = Article
+\bibitem[{Sharp({1984})}]{Sharp84}
+\bibinfo{author}{Sharp, D.H.}, \bibinfo{year}{{1984}}.
+\newblock \bibinfo{title}{{An overview of the Rayleigh-Taylor instability}}.
+\newblock \bibinfo{journal}{{Physica D}} \bibinfo{volume}{{12}},
+  \bibinfo{pages}{{3--18}}.
+%Type = Article
 \bibitem[{Snyder and Hsu({2011})}]{Snyder11}
 \bibinfo{author}{Snyder, P.J.}, \bibinfo{author}{Hsu, T.},
   \bibinfo{year}{{2011}}.
@@ -385,6 +463,28 @@
 \newblock \bibinfo{title}{{The "Salt-Fountain" and Thermohaline Convection}}.
 \newblock \bibinfo{journal}{{Tellus}} \bibinfo{volume}{{12}},
   \bibinfo{pages}{{172--175}}.
+%Type = Article
+\bibitem[{Sutherland et~al.({2018})Sutherland, Gingras, Knudsen, Steverango and
+  Surna}]{Sutherland18}
+\bibinfo{author}{Sutherland, B.R.}, \bibinfo{author}{Gingras, M.K.},
+  \bibinfo{author}{Knudsen, C.}, \bibinfo{author}{Steverango, L.},
+  \bibinfo{author}{Surna, C.}, \bibinfo{year}{{2018}}.
+\newblock \bibinfo{title}{{Particle-bearing currents in uniform density and
+  two-layer fluids}}.
+\newblock \bibinfo{journal}{{Phys. Rev. Fluids}} \bibinfo{volume}{{3}},
+  \bibinfo{pages}{{023801}}.
+%Type = Article
+\bibitem[{Taylor({1931})}]{Taylor31}
+\bibinfo{author}{Taylor, G.I.}, \bibinfo{year}{{1931}}.
+\newblock \bibinfo{title}{{Effect of variation in density on the stability of
+  superposed streams of fluid}}.
+\newblock \bibinfo{journal}{{Proc. R. Soc. Lond.}} \bibinfo{volume}{{132}},
+  \bibinfo{pages}{{449--523}}.
+%Type = Book
+\bibitem[{Turner({1979})}]{Turner79}
+\bibinfo{author}{Turner, J.S.}, \bibinfo{year}{{1979}}.
+\newblock \bibinfo{title}{{Buoyancy effects in fluids}}.
+\newblock \bibinfo{publisher}{{Cambridge Univ. Press}}.
 %Type = Article
 \bibitem[{Webster et~al.({2012})Webster, Thomson, Johnson, Heard, Turnbull,
   Marenco, Kristiansen, Dorsey, Minikin, Weinzierl, Schumann, R.~S, Loughlin,
@@ -438,5 +538,13 @@
   using the 1 November 2004 Grimsv{\"o}tn eruption}}.
 \newblock \bibinfo{journal}{{Meteorol. Appl.}} \bibinfo{volume}{{14}},
   \bibinfo{pages}{{127--38}}.
+%Type = Article
+\bibitem[{Yu et~al.({2014})Yu, Hsu and Balachandar}]{Yu14}
+\bibinfo{author}{Yu, X.}, \bibinfo{author}{Hsu, T.},
+  \bibinfo{author}{Balachandar, S.}, \bibinfo{year}{{2014}}.
+\newblock \bibinfo{title}{{Convective instability in sedimentation: 3-D
+  numerical study}}.
+\newblock \bibinfo{journal}{{J. Geophys. Res. Oceans}} \bibinfo{volume}{{119}},
+  \bibinfo{pages}{{8141--8161}}.
 
 \end{thebibliography}
