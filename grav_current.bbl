@@ -1,4 +1,4 @@
-\begin{thebibliography}{64}
+\begin{thebibliography}{71}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\href}[2]{#2}
@@ -19,6 +19,13 @@
   Particulate Matter Air Pollution on Human Health}}.
 \newblock \bibinfo{journal}{{J. Med. Toxicol.}} \bibinfo{volume}{{8}},
   \bibinfo{pages}{{166--175}}.
+%Type = Article
+\bibitem[{Barr({1967})}]{Barr67}
+\bibinfo{author}{Barr, D.I.H.}, \bibinfo{year}{{1967}}.
+\newblock \bibinfo{title}{{Densimetric exchange flow in rectangular channels
+  III. Large scale experiments}}.
+\newblock \bibinfo{journal}{{Houille Blanche}} \bibinfo{volume}{22},
+  \bibinfo{pages}{{619--632}}.
 %Type = Incollection
 \bibitem[{Baxter and Horwell({2015})}]{Baxter15}
 \bibinfo{author}{Baxter, P.J.}, \bibinfo{author}{Horwell, C.J.},
@@ -243,6 +250,12 @@
   hypopycnal plumes}}.
 \newblock \bibinfo{journal}{{Phys. Fluids}} \bibinfo{volume}{{29}},
   \bibinfo{pages}{{124102}}.
+%Type = Incollection
+\bibitem[{Fay({1969})}]{Fay69}
+\bibinfo{author}{Fay, J.A.}, \bibinfo{year}{{1969}}.
+\newblock \bibinfo{title}{{The spread of oil slicks on a calm sea}}, in:
+  \bibinfo{editor}{{D. P. Hoult}} (Ed.), \bibinfo{booktitle}{{Oil on the sea}}.
+  \bibinfo{publisher}{{Plenum}}, pp. \bibinfo{pages}{{53--63}}.
 %Type = Article
 \bibitem[{Folch({2012})}]{Folch12}
 \bibinfo{author}{Folch, A.}, \bibinfo{year}{{2012}}.
@@ -286,6 +299,12 @@
 \newblock \bibinfo{journal}{{Geophys. Publ.}} \bibinfo{volume}{{24}},
   \bibinfo{pages}{{67--113}}.
 %Type = Article
+\bibitem[{Hoult({1972})}]{Hoult72}
+\bibinfo{author}{Hoult, D.P.}, \bibinfo{year}{{1972}}.
+\newblock \bibinfo{title}{{Oil spreading on the sea}}.
+\newblock \bibinfo{journal}{{Ann. Rev. Fluid Mech.}} \bibinfo{volume}{{4}},
+  \bibinfo{pages}{{341--368}}.
+%Type = Article
 \bibitem[{Hoyal et~al.({1999})Hoyal, Bursik and Atkinson}]{Hoyal99}
 \bibinfo{author}{Hoyal, D.C.J.D.}, \bibinfo{author}{Bursik, M.I.},
   \bibinfo{author}{Atkinson, J.F.}, \bibinfo{year}{{1999}}.
@@ -293,6 +312,13 @@
   sedimentation from stratified fluids}}.
 \newblock \bibinfo{journal}{{J. Geophys. Res. Oceans}} \bibinfo{volume}{{104}},
   \bibinfo{pages}{{7953--7966}}.
+%Type = Article
+\bibitem[{Huppert and Simpson({1980})}]{Huppert80}
+\bibinfo{author}{Huppert, H.E.}, \bibinfo{author}{Simpson, J.E.},
+  \bibinfo{year}{{1980}}.
+\newblock \bibinfo{title}{{The slumping of gravity currents}}.
+\newblock \bibinfo{journal}{{J. Fluid Mech.}} \bibinfo{volume}{{99}},
+  \bibinfo{pages}{{785--799}}.
 %Type = Article
 \bibitem[{Jazi and Wells({2016})}]{Jazi16}
 \bibinfo{author}{Jazi, S.D.}, \bibinfo{author}{Wells, M.G.},
@@ -335,6 +361,11 @@
   frictionless}}.
 \newblock \bibinfo{journal}{{Phil. Mag.}} \bibinfo{volume}{{42}},
   \bibinfo{pages}{{368--374}}.
+%Type = Article
+\bibitem[{Keulegan({1958})}]{Keulegan58}
+\bibinfo{author}{Keulegan, G.}, \bibinfo{year}{{1958}}.
+\newblock \bibinfo{title}{{The motion of saline fronts in still water}}.
+\newblock \bibinfo{journal}{{Nat. Bur. Stnd. Rep.}} \bibinfo{volume}{{5813}}.
 %Type = Article
 \bibitem[{Konopliv et~al.({2018})Konopliv, Lesshafft and Meiburg}]{Konopliv18}
 \bibinfo{author}{Konopliv, N.}, \bibinfo{author}{Lesshafft, L.},
@@ -438,6 +469,19 @@
 \newblock \bibinfo{title}{{An overview of the Rayleigh-Taylor instability}}.
 \newblock \bibinfo{journal}{{Physica D}} \bibinfo{volume}{{12}},
   \bibinfo{pages}{{3--18}}.
+%Type = Article
+\bibitem[{Shin et~al.({2004})Shin, Dalziel and Linden}]{Shin04}
+\bibinfo{author}{Shin, J.O.}, \bibinfo{author}{Dalziel, S.B.},
+  \bibinfo{author}{Linden, P.F.}, \bibinfo{year}{{2004}}.
+\newblock \bibinfo{title}{{Gravity currents produced by lock exchange}}.
+\newblock \bibinfo{journal}{{J. Fluid Mech.}} \bibinfo{volume}{{521}},
+  \bibinfo{pages}{{1--34}}.
+%Type = Book
+\bibitem[{Simpson({1997})}]{Simpson97}
+\bibinfo{author}{Simpson, J.S.}, \bibinfo{year}{{1997}}.
+\newblock \bibinfo{title}{{Gravity currents in the environment and the
+  laboratory}}.
+\newblock \bibinfo{publisher}{{Cambridge University Press}}.
 %Type = Article
 \bibitem[{Snyder and Hsu({2011})}]{Snyder11}
 \bibinfo{author}{Snyder, P.J.}, \bibinfo{author}{Hsu, T.},
